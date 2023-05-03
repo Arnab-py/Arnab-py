@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=Arnab-py&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on DSA & Web Development.<br>🌱 I’m currently learning Python<br>💬 Ask me about Web & DSA<br>⚡ Fun fact Extrovert
 
@@ -15,5 +16,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arnab-py&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Arnab-py&icon=0&color=0)](https://visitcount.itsvg.in)
